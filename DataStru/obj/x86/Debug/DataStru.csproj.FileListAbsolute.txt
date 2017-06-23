@@ -1,0 +1,5 @@
+F:\1.老的文件\开发点蛋疼的东西\DataStru\DataStru\bin\Debug\DataStru.exe
+F:\1.老的文件\开发点蛋疼的东西\DataStru\DataStru\bin\Debug\DataStru.pdb
+F:\1.老的文件\开发点蛋疼的东西\DataStru\DataStru\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1.老的文件\开发点蛋疼的东西\DataStru\DataStru\obj\x86\Debug\DataStru.exe
+F:\1.老的文件\开发点蛋疼的东西\DataStru\DataStru\obj\x86\Debug\DataStru.pdb
