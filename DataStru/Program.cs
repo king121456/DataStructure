@@ -19,9 +19,14 @@ namespace DataStru
             //var类型推断
             foreach (var x in list)
             {
-                Console.Write(x);
+                //Console.Write(x);
             }
-            
+            List<int> ddd = new List<int>();
+            ddd.Add(1);
+            ddd.Add(12);
+            ddd.Add(3);
+            Console.WriteLine(ddd.RemoveAll(r=>r>1));
+            //Console.WriteLine(ddd[1]);
             Console.ReadKey();
         }
     }

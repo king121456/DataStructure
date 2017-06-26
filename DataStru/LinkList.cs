@@ -26,7 +26,7 @@ namespace DataStru
         public LinkListNode Prev { get; internal set; }
     }
 
-    public class LinkList
+    public class LinkList:IEnumerable<
     {
         public LinkListNode First { get; set; }
         public LinkListNode Last { get; set; }
@@ -49,6 +49,8 @@ namespace DataStru
             }
             return node;
         }
+        
+        
 
         public IEnumerator GetEnumerator()
         {
@@ -60,6 +62,7 @@ namespace DataStru
             }
            
         }
+
     }
 
 
